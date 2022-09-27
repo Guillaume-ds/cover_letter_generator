@@ -1,0 +1,4 @@
+./static/stages.csv
+static/stages.csv
+.\coverLetters\*
+!somefolder/.gitkeep 
